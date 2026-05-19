@@ -70,7 +70,7 @@ C:Modding\Wabbajack
 
 C:\Modding\Wasteland Genesis
 
-[![image37](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image37.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image37.png)
+![image37](https://github.com/user-attachments/assets/7605916c-e20f-4d23-ac11-2e332447ccb7)
 
 #### Step 2 - Downloading Wasteland Genesis
 
