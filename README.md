@@ -150,13 +150,13 @@ You will be prompted to manually download 1 file.
 
 When prompted, press the Blue download button and close any pop ups it opens.
 
-[![image17](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image17.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image17.png)
+![image17](https://github.com/user-attachments/assets/329669c6-a0f8-4a4d-aea8-9665eb836774)
 
 #### Step 8 - Installation Complete
 
 When Wasteland Genesis has completed, you should have a screen that looks like this
 
-[![image21](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image21.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image21.png)
+![image21](https://github.com/user-attachments/assets/9ddc1edb-dcbc-41f1-a052-2645784445f7)
 
 ---
 
@@ -166,7 +166,7 @@ When Wasteland Genesis has completed, you should have a screen that looks like t
 
 Click on install folder and it will take you to the folder with all the mods, MO2 and other files needed to run this mod list
 
-[![image10](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image10.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image10.png)
+![image10](https://github.com/user-attachments/assets/18119724-c262-448e-a001-69935ac90008)
 
 #### Step 10 - Run Mod Organizer
 
@@ -176,10 +176,10 @@ Now select Wasteland Genesis.exe. The very last file which will open a portable 
 
 Click Run on the F4SE Loader on the right of the screen and the game should load.
 
-[![image31](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image31.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image31.png)
+![image31](https://github.com/user-attachments/assets/f13ee377-09fa-49f8-a2f9-d327458e206e)
 
 #### Step 12 - Enjoy
 
-[![image13](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image13.jpg)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image13.jpg)
+![image13](https://github.com/user-attachments/assets/0083e537-29d4-4c53-bf5d-f3ffb8ffdbcb)
 
 Enjoy
