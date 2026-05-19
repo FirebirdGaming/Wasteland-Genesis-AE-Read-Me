@@ -84,7 +84,7 @@ Unzip Wasteland Genesis.zip and save for later
 
 The contents of your folder should look like this:
 
-[![image23](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image23.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image23.png)
+![image23](https://github.com/user-attachments/assets/243744e1-4756-430c-a466-2427bfa841d4)
 
 #### Step 3 - Download Wabbajack
 
@@ -94,13 +94,13 @@ Put the Wabbajack.exe into your Wabbajack folder
 
 *(Note: I've already run Wabbajack.exe which is why I have the extra contents in this pic)*
 
-[![image9](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image9.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image9.png)
+![image9](https://github.com/user-attachments/assets/be196543-8139-455e-af23-ab279d9c77b6)
 
 #### Step 4 - Run Wabbajack
 
 Open the Wabbajack file and select the Wabbajack.exe
 
-[![image28](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image28.png)](https://github.com/FirebirdGaming/Wasteland-Genesis/raw/main/img/image28.png)
+![image28](https://github.com/user-attachments/assets/a7c4f9c4-20e0-4740-8d06-c1715635719c)
 
 #### Step 5 - Using Wabbajack
 
