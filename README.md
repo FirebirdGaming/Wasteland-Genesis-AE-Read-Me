@@ -12,6 +12,8 @@
 
 [Manual files](#Manual-File-Downloads)
 
+[Useful Settings](#Useful-Settings)
+
 [Launching Wasteland Genesis](#Launching-Wasteland-Genesis)
 
 ---
@@ -157,6 +159,14 @@ When prompted, press the Blue download button and close any pop ups it opens.
 When Wasteland Genesis has completed, you should have a screen that looks like this
 
 ![image21](https://github.com/user-attachments/assets/9ddc1edb-dcbc-41f1-a052-2645784445f7)
+
+---
+
+## Useful Settings
+
+### 1. Controller Settings
+
+Open `addictol.toml` and change `bInputSwitch=false`
 
 ---
 
