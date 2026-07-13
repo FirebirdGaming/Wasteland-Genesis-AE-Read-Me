@@ -27,13 +27,21 @@ items, and Wasteland Genesis AE is built and tested against those 9 and nothing 
 
 
 ccBGSFO4044 — Hellfire Power Armor
+
 ccBGSFO4046 — Tesla Cannon
+
 ccBGSFO4096 — Enclave Armour Skin
+
 ccBGSFO4110 — Enclave Weapon Skin
+
 ccBGSFO4115 — X-02 Power Armor
+
 ccBGSFO4116 — Heavy Flamer
+
 ccFSVFO4007 — Halloween Workshop
+
 ccOTMFO4001 — Enclave Remnants
+
 ccSBJFO4003 — Grenade Pack
 
 ## REQUIRED GAME VERSION - Anniversary Edition - 1.11.221.0
