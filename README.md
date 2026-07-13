@@ -22,6 +22,8 @@
 
 # **Creation Kit is a hard requirement - Make sure you have this first!**
 
+## Creation Club Content
+
 The Anniversary Edition Creations Bundle ships with the game. It gives you 9 Creation Club
 items, and Wasteland Genesis AE is built and tested against those 9 and nothing else:
 
