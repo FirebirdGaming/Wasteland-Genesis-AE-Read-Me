@@ -22,7 +22,7 @@
 
 # **Creation Kit is a hard requirement - Make sure you have this first!**
 
-## REQUIRED GAME VERSION - Anniversary Edition - 1.11.191.0
+## REQUIRED GAME VERSION - Anniversary Edition - 1.11.221.0
 
 ### This mod list works best if installed on a SSD.
 
