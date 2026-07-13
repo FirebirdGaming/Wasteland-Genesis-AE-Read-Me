@@ -4,6 +4,8 @@
 
 [Requirements](#Requirements)
 
+[Creation Club Content](#Creation-Club-Content)
+
 [PC Specs](#PC-specs)
 
 [Install from Nexus](#Install-Steps---For-Nexus-downloaded-file)
